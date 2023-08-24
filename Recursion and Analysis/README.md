@@ -1,19 +1,9 @@
-# Lab 3
 
-## Due: June 4, 2023
 ## Objectives:
 
 - learn to write recursive functions
 - learn to analyze recursive functions
 
-## Setup
-
-
-All files needed for this lab were created by doing the first task in [lab 0](lab-00.md).  If you didn't do lab 0, do the first task to create your lab repository.
-
-
-- All code is to be written in lab3.py
-- All answers to non-coding questions and analysis is to be written in lab3.md
 
 ## Resources
 
